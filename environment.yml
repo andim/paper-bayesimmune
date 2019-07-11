@@ -1,0 +1,10 @@
+name: optdynimmune
+dependencies:
+    - python=2.7
+    - numpy
+    - scipy
+    - pandas
+    - matplotlib
+    - pip:
+        - palettable
+   
